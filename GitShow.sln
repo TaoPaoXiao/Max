@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitShow", "GitShow\GitShow.csproj", "{81405C36-0E97-4D03-A515-2838E00F2158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81405C36-0E97-4D03-A515-2838E00F2158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81405C36-0E97-4D03-A515-2838E00F2158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81405C36-0E97-4D03-A515-2838E00F2158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81405C36-0E97-4D03-A515-2838E00F2158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B823261-48C7-4289-BED9-7AB2B19C6E23}
+	EndGlobalSection
+EndGlobal
