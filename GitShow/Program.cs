@@ -10,12 +10,10 @@ namespace GitShow
             Console.WriteLine("ids；{ 1,5,9,8,7,4,1,6}");
             Console.WriteLine("依次输出数组元素");
             int[] ids = { 1,5,9,8,7,4,1,6};
-            int i = 0;
-            while (i<ids.Length)
-            {               
+            for (int i = 0; i < ids.Length; i++)
+            {
                 Console.WriteLine(ids[i]);
-                i++;
-            }
+            }          
             Console.Read();
         }
     }
