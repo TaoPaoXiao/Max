@@ -13,7 +13,7 @@ namespace GitShow
             int max = 0;
             Console.WriteLine("声明一个max使它的值为0");
             for (int i = 0; i < array.Length; i++)
-            {
+            { 
                 if (max > array[i])
                 {
                     Console.WriteLine($"如果{max}>{array[i]},那么此时最大值为{max}");
